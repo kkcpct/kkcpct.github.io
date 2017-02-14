@@ -20,4 +20,4 @@ https://sound.kkcpct.org
 http://media.kkcpct.org
 http://s.kkcpct.org
 https://issuu.kkcpct.org
-http://g.kkcpct.org
+https://g.kkcpct.org
