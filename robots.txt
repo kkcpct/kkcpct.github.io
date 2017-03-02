@@ -1,1 +1,6 @@
 Sitemap: https://kkcpct.org/sitemap.txt
+
+#Googlebot
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
